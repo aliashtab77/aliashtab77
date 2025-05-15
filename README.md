@@ -29,6 +29,11 @@ Telegram : @Starkteammaster
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aliashtab77) 
 
+
+  <a href="https://nowpayments.io/donation?api_key=YHBB56V-QYHM4D6-G70F2AG-SCWEEKB" target="_blank" rel="noreferrer noopener">
+   <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
+</a>
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
