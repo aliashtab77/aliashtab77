@@ -33,6 +33,7 @@ Telegram : @Starkteammaster
   <a href="https://nowpayments.io/donation?api_key=YHBB56V-QYHM4D6-G70F2AG-SCWEEKB" target="_blank" rel="noreferrer noopener">
    <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
 </a>
+ <a href="https://www.coffeebede.com/starkteam"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
